@@ -27,7 +27,7 @@ public class Variaveis {
 		boolean tipoF = false;
 			System.out.println("Váriavel do tipo boolean: " + tipoF);
 			
-		// Juntando duas Váriaveis do tipo String
+		// Juntando duas Variáveis do tipo String
 			//Modelo01
 		String primeironome = "João ";
 		String sobrenome = "Silva";
@@ -38,14 +38,14 @@ public class Variaveis {
 		String nomecompleto = primeironome2+sobrenome2;
 				System.out.println("Nome completo: " + nomecompleto);
 		
-		// Juntando duas Váriaveis do tipo int
+		// Juntando duas Variáveis do tipo int
 		
 		int x = 10;
 		int y = 5;
 		
 		System.out.println(x+y);
 		
-		// Declarar mais de uma váriavel
+		// Declarar mais de uma variável
 		
 		int a = 1, b = 2, c = 3;
 		System.out.println(a + b + c);
