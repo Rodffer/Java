@@ -9,5 +9,4 @@ public class Ola_Mundo {
         
         System.out.println("Olá, Mundo!");
     }
-    
 }
