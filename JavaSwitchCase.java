@@ -32,7 +32,9 @@ public class JavaSwitchCase {
             case 4:
                 System.out.println("Resultado: " + (y - z));
                 break;
-
+                
+            default:
+                System.out.println("Opção não disponivel!!");
         }
     }
 
